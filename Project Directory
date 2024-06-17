@@ -1,0 +1,16 @@
+task_automation/
+│
+├── config/
+│   └── example_config.json
+│
+├── tasks/
+│   ├── __init__.py
+│   └── block_customers.py
+├── gui.py
+├── main.py
+├── mock_server.py
+├── test_pandas.py
+└── .gitignore
+│
+├── "C:\Users\User\Downloads\PLP Project\Department_of_Mental_Health__DMH__Provider_Directory.csv"
+

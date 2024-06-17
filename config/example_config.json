@@ -1,0 +1,8 @@
+{
+  "task": "block_customers",
+  "params": {
+    "api_url": "http://127.0.0.1:5000/block_customer",
+    "csv_file": "C:\\Users\\User\\Downloads\\PLP Project\\Department_of_Mental_Health__DMH__Provider_Directory.csv", 
+    "provider_column": "Provider Name"
+  }
+}
